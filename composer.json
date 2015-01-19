@@ -1,0 +1,21 @@
+{
+  "name": "dispatch/dispatch",
+  "type": "library",
+  "description": "a microframework/front-controller",
+  "keywords": ["framework", "router", "microframework", "micro", "microphp"],
+  "homepage": "http://github.com/tomasberglund/test",
+  "license": "MIT",
+  "authors": [{
+    "name": "Tomas Berglund",
+    "role": "Developer",
+    "homepage": "http://github.com/tomasberglund/test"
+  }],
+  "require": {
+    "php": ">= 5.4.0"
+  },
+  "autoload": {
+    "files": [
+      "src/test.php"
+    ]
+  }
+}
